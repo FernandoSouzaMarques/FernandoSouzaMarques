@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hi there, I'm Fernando Souza Marques 👋
 
-<!--
-**FernandoSouzaMarques/FernandoSouzaMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and I live in Brazil.
+I work mainly with HTML, CSS and Javascript, but I also like working with frameworks like Vue.js.
 
-Here are some ideas to get you started:
+I love to learn new things like frameworks, methodologies and development patterns.❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick overview
+* GitHub stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosouzamarques&langs_count=8" />
+
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fernandosouzamarques&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+
+(also my organization, [pineappleDevs](https://github.com/pineappleDevsBr))
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+### What I do
+
+In addition to development, I like to create layouts, edit videos and images.
+
+I'm graduating from the Fatec Faculty of Technology, in the Systems Analysis and Development course.
+
+## My skills 💻
+
+- HTML, CSS, JavaScript
+- SCSS
+- Stylus
+- Node.js
+- MongoDB
+- Vue.js (also [Quasar](https://quasar.dev/))
+
+## What I'm currently learning 🤓 📚
+
+- TypeScript
+- React.js
+- React Native
+- Angular (I know a little)
+
+</details>
